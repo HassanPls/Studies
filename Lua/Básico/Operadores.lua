@@ -1,0 +1,9 @@
+--[[
++ **adição
+- **subtração 
+/ **divisão
+* **multiplicação
+
+
+
+]]--
