@@ -13,7 +13,3 @@ nesse tipo de comentário é possível utilizar múltiplas linhas para explicar 
 ]]--
 
 -- cada comentário é ignorado na execução do código, tendo como função explicar o script
-
-
-
-
