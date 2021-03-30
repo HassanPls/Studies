@@ -10,6 +10,11 @@ Operadores Aritméticos:
 ^ | exponenciação
 
 Operadores Relacionais:
-
+== | igual a
+~= | diferente de
+<  | menor que
+>  | maior que
+<= | menor ou igual a que
+>= | maior ou igual a que
 
 ]]--
