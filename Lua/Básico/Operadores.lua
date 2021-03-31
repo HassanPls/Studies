@@ -1,3 +1,17 @@
+print(1 + 1) -- resultado: 2
+print(1 - 1) -- resultado: 0
+print(1 / 1) -- resultado: 1
+print(1 * 1) -- resultado: 1
+print(1 % 1) -- resultado: 0
+print(2 ^ 3) -- resultado: 8
+
+print(1 == 1) -- resultado: true
+print(1 ~= 1) -- resultado: false
+print(1 < 1) -- resultado: false
+print(1 > 1) -- resultado: false
+print(1 <= 1) -- resultado: true
+print(1 >= 1) -- resultado: true
+
 --[[
     
 Essa liguagem oferesse diversos tipo de operadores
