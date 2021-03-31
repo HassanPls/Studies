@@ -1,4 +1,5 @@
 --[[
+    
 Essa liguagem oferesse diversos tipo de operadores
 
 Operadores Aritméticos:
