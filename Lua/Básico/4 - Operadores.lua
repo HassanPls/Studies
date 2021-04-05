@@ -12,6 +12,8 @@ print(1 > 1) -- resultado: false
 print(1 <= 1) -- resultado: true
 print(1 >= 1) -- resultado: true
 
+print("1 " .. "e " .. "2") -- resultado: "1 e 2"
+
 --[[
     
 Essa liguagem oferesse diversos tipo de operadores
@@ -31,5 +33,7 @@ Operadores Relacionais:
 >  | maior que
 <= | menor ou igual a que
 >= | maior ou igual a que
+
+Operador de Concatenação: .. 
 
 ]]--
