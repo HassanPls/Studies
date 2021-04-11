@@ -6,6 +6,6 @@ Irei te dar um empurrão para que consiga fazer codigos incriveis!
 
 ***linguagens de programação para aprender aqui:***
 
-* ***Lua***
+* ***[Lua](https://github.com/MechOfc/Programmation/tree/main/Lua)***
 
 by Mech
