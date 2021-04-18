@@ -1,7 +1,7 @@
-a = 10
+a = 10 -- Global
 b = 1
 while (b < 11) do
-    local a = b + 1
+    local a = b + 1 -- Local
     print(a)    
     b = b + 1
 end
