@@ -1,11 +1,18 @@
 a = 10 -- Global
 b = 1
+tabela = {
+    nome = "Mech";
+    idade = 13;
+} -- Table
+
 while (b < 11) do
     local a = b + 1 -- Local
     print(a)    
     b = b + 1
 end
 
+print(tabela.nome)
+print(tabela.idade)
 print(a)
 
 --[[
@@ -20,5 +27,6 @@ váriaveis globais não precisam ser declaradas
 váriaveis locais precisam ser declaradas, colocando um "local" no inicio da váriavel 
 e elas só podem ser chamadas no bloco em que foram criadas
 
+tables são tabelas que são indexadas em arrays
 
 ]]--
