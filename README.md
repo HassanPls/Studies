@@ -1,11 +1,11 @@
-# Programmation
-Ensinando algumas linguagens de programação...
+# Sobre este Repositório
 
-Aqui você conseguirá aprender algumas linguagens de programação, 
-Irei te dar um empurrão para que consiga fazer codigos incriveis!
+eu estudo engines e linguagens de programação a 2 anos
+estou trabalhando em diversos projetos
+e quero postar aqui o que eu faço e aprendo para ajudar outras pessoas
 
-***linguagens de programação para aprender aqui:***
-
+# linguagens:
 * ***[Lua](https://github.com/MechOfc/Programmation/tree/main/Lua)***
+
 
 by Mech
