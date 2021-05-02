@@ -6,7 +6,7 @@ estou trabalhando em diversos projetos,
 e quero postar aqui o que eu faço e aprendo para ajudar outras pessoas.
 
 ### 📜Linguagens📜
-* **[🌜 - Lua](https://github.com/MechOfc/Programmation/tree/main/Lua)**
+* **[🌜 - Lua 5.2](https://github.com/MechOfc/Programmation/tree/main/Lua)**
 
 ### 📜Redes Sociais📜
 * **[🔥YouTube🔥](https://www.youtube.com/channel/UCA-lKzMkAvGGHxlAvMZZifQ)**
