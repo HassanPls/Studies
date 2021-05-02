@@ -1,11 +1,9 @@
 # Lua
 
-Lua é uma linguagem de programação poderosa, eficiente e leve, projetada para estender aplicações. Ela permite programação procedural, programação orientada a objetos, programação funcional, programação orientada a dados e descrição de dados.
-Ela é usada em muitas aplicações industriais, com ênfase em sistemas embutidos e jogos. Lua é atualmente a linguagem de script mais usada em jogos. Lua tem um sólido manual de referência e existem vários livros sobre a linguagem. Várias versões de Lua foram lançadas e usadas em aplicações reais desde a sua criação em 1993.
+Eu escolhi lua para aprender primeiro pois acho que ela é otima para aprender lógica de programação, e também porque o roblox utiliza ela para a parte da programação, então além de aprender lógica da programação, eu iria aprender como mexer nesse universo de jogos 3D.
+Aqui irei mostrar tudo que eu aprendi sobre a linguagem de modo resumido e com alguns exemplos para ficar fácil de entender.
 
-***Coisas que são explicadas aqui:***
-
-**Básico:**
+# Básico:
 * Comentários
 * Tipos básicos
 * Print
