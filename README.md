@@ -1,5 +1,5 @@
 # 📜Sobre este Repositório📜
-⚠️| status: em desenvolvimento
+⚠️| **status: em desenvolvimento**
 
 eu estudo engines e linguagens de programação a 2 anos,
 estou trabalhando em diversos projetos, 
