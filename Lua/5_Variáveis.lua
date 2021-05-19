@@ -11,20 +11,20 @@ while (b < 11) do
     b = b + 1
 end
 
-print(tabela.nome)
-print(tabela.idade)
+print(tabela.nome) -- resultado: Mech
+print(tabela.idade) -- resultado: 13
 print(a)
 
 --[[
 
-Em lua existe 3 tipos de váriaveis:
+Em lua existe 3 tipos de variáveis:
 - Global
 - Local
 - Table
 
-váriaveis globais não precisam ser declaradas
+variáveis globais não precisam ser declaradas
 
-váriaveis locais precisam ser declaradas, colocando um "local" no inicio da váriavel 
+variáveis locais precisam ser declaradas, colocando um "local" no inicio da váriavel 
 e elas só podem ser chamadas no bloco em que foram criadas
 
 tables são tabelas que são indexadas em arrays
