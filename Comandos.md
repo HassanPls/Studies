@@ -1,0 +1,21 @@
+### Lua
+Comando | Explicação
+:-- | :--
+comentários (" -- " ou "--[[]]--") | serve para explicar o código 
+nil, boolean, number, string, function, userdata, thread e table | tipos de valores 
+print() | enviar algo no console 
+\+ - / * % ^ | Operador aritmético 
+== ~= <  > <= >= | Operado relacional 
+.. | Operador de concatenação 
+Variavel global, local e table | tipos de variáveis 
+tostring e tonumber | converte os tipos 
+caractere de escape ( \ ) | escapa os caracteres que alteram a string
+( \n ) | pula uma linha na string
+( \t ) | adiciona um parágrafo na string
+( \r ) | retira um parágrafo na string
+io.read() | recebe um input
+if, else e elseif |
+"and" e "or" |
+function() |
+return |
+"while", "for" e "repeat until" |
