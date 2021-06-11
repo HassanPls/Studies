@@ -1,3 +1,5 @@
+# Comandos
+Aqui eu mostro algumas coisas essenciais das linguagens que eu aprendi, para caso qualquer pessoas esqueça ela possa relembrar.
 ## Lua
 Comando | Explicação
 :-- | :--
