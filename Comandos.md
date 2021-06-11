@@ -18,4 +18,4 @@ io.read() | recebe um input
 "and", "or" e "not" | operadores lógicos ("e", "ou" e "não")
 function() | executa uma tarefa específica ou calcula e retorna um valor 
 return | retorna um valor de uma function
-"while", "for" e "repeat until" | cria um loop
+"while", "for" e "repeat until" | cria um loop ("enquanto", "durante" e "repita até")
