@@ -1,5 +1,6 @@
-# Comandos
-Aqui eu mostro algumas coisas essenciais das linguagens que eu aprendi, para caso qualquer pessoas esqueça ela possa relembrar.
+# 📜-Comandos-📜
+<p>Aqui eu mostro algumas coisas essenciais das linguagens que eu aprendi e alguns arquivos com linhas de códigos sobre elas.</p>
+
 ## Lua
 Comando | Explicação
 :-- | :--
