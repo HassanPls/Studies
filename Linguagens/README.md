@@ -1,24 +1,24 @@
-# 📜-Comandos-📜
+# ***Comandos***
 <p>Aqui eu mostro algumas coisas essenciais das linguagens que eu aprendi e alguns arquivos com linhas de códigos sobre elas.</p>
 
-## Lua
+## **Lua**
 Comando | Explicação
 :-- | :--
-comentários (" -- " ou "--[[]]--") | serve para explicar o código 
-nil, boolean, number, string, function, userdata, thread e table | tipos de valores 
-print() | enviar algo no console 
+" -- " ou "--[[]]--" | Serve para comentar o código 
+nil, boolean, number, string, function, userdata, thread, table | Tipos de valores 
+print() | Envia algo no console 
 \+ - / * % ^ | Operador aritmético 
 == ~= <  > <= >= | Operado relacional 
 "and", "or" e "not" | Operadores lógicos ("e", "ou" e "não")
 .. | Operador de concatenação 
-Variavel global, local e table | tipos de variáveis 
-tostring e tonumber | converte os tipos 
-caractere de escape ( \ ) | escapa os caracteres que alteram a string
-( \n ) | pula uma linha na string
-( \t ) | adiciona um parágrafo na string
-( \r ) | retira um parágrafo na string
-io.read() | recebe um input
-"if", "else" e "elseif" | checa um determinado valor ("se", "se não" e "mais se")
-function() | executa uma tarefa específica ou calcula e retorna um valor 
-return | retorna um valor de uma function
-"while", "for" e "repeat until" | cria um loop ("enquanto", "durante" e "repita até")
+global, local, table | Tipos de variáveis 
+tostring, tonumber | Converte os tipos 
+caractere de escape ( \ ) | Escapa os caracteres que alteram a string
+\n | Pula uma linha na string
+\t | Adiciona um parágrafo na string
+\r | Retira um parágrafo na string
+io.read() | Recebe um input
+if, else, elseif | Checa um valor ("se", "se não", "mais se")
+function() | Executa uma tarefa específica
+return | Retorna um valor de uma function
+"while", "for" e "repeat until" | Cria um loop 
