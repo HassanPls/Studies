@@ -2,6 +2,7 @@
 <p>Aqui eu mostro algumas coisas essenciais das linguagens que eu aprendi e alguns arquivos com linhas de códigos sobre elas.</p>
 
 ## **Lua**
+### **[Documentação](https://www.lua.org/docs.html)**
 Comando | Explicação
 :-- | :--
 " -- " ou "--[[]]--" | Serve para comentar o código 
