@@ -1,17 +1,24 @@
-# ***Sobre este Repositório***
-## **Info**
-### ***STATUS: em desenvolvimento***
-eu estudo engines e linguagens de programação a alguns anos, estou trabalhando em diversos projetos, e quero mostrar aqui o que eu faço e aprendo para ajudar outras pessoas.
+# ***About this repository***
+
+### **STATUS: _in development_**
+### **VERSION: _1.2_**
+### **Created by: _Hassan_**
+
+------------------
 
 ## **Resources**
-* ***Visual Studio Code - [Site para download](https://code.visualstudio.com)*** <br>
-Eu utilizei o Visual Studio Code para aprender todas as linguagens desse repositório, pois é um ótimo editor de código e tem um grande suporte de linguagens integrado 
+* ***Visual Studio Code - [Website for download](https://code.visualstudio.com)***  
+I used Visual Studio Code to learn all the languages ​​in this repository, It is a great code editor and has a great programming language support.
 
-## **Linguagens**
-### ***Lua - [Documentação de Lua](https://www.lua.org/)***
+------------------
 
-## **Redes Sociais**
+## **Languages**
+### ***Lua - [Files](Languages/Lua/) - [Documentation](https://www.lua.org/)***
+
+------------------
+
+## **Social Networks**
 * **[YouTube](https://www.youtube.com/channel/UCA-lKzMkAvGGHxlAvMZZifQ)**
 * **[Twitter](https://twitter.com/Hassan_pls)**
 
-by Hassan
+------------------
