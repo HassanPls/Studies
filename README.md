@@ -8,7 +8,7 @@
 
 ## **Resources**
 * ***Visual Studio Code - [Website for download](https://code.visualstudio.com)***  
-I used Visual Studio Code to learn all the languages ​​in this repository, It is a great code editor and has a great programming language support.
+I used Visual Studio Code to learn all the languages ​​in this repository, It is a great code editor and has a good programming language support.
 
 ------------------
 
