@@ -12,6 +12,6 @@ class Bitwise
         m = n >> 1;
         d = n << 1;
 
-        Console.Write("A metade do número é {0} e o dobro dele é {1}.", m, d);
+        Console.Write("A metade de {0} é {1} e o dobro é {2}.", n, m, d);
     }
 }
