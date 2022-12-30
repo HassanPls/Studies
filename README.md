@@ -1,25 +1,24 @@
 # ***About this repository***
 
-## **STATUS: *in development***
+ **STATUS: *in development***
 
-## **VERSION: *1.3***
+ **VERSION: *1.3.1***
 
-## **Created by: *Hassan***
+ **CREATED BY: *Hassan***
 
 ---
 
 ## **Resources**
 
-![link](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+[![link](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
 
-***[Website for download](https://code.visualstudio.com)***  
 I used Visual Studio Code to learn all the languages ​​in this repository, It is a great code editor and has a good programming language support.
 
 ---
 
 ## **Languages**
 
-### ***C# - [Files](Languages/) - [Documentation](https://learn.microsoft.com/pt-br/dotnet/csharp/)***
+### ***C# - [Files](Files/) - [Documentation](https://learn.microsoft.com/pt-br/dotnet/csharp/)***
 
 ---
 
