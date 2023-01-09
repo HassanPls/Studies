@@ -18,7 +18,7 @@ I used Visual Studio Code to learn all the languages ​​in this repository, I
 
 ## **Languages**
 
-### ***C# - [Files](Files/) - [Documentation](https://learn.microsoft.com/pt-br/dotnet/csharp/)***
+### ***C# - [Files](Files%20-%20C%23/) - [Documentation](https://learn.microsoft.com/pt-br/dotnet/csharp/)***
 
 ---
 

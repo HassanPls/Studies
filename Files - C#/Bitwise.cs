@@ -7,7 +7,7 @@ class Bitwise
         int n, h, d;
         
         Console.Write("Enter a number: ");
-        n = Convert.ToInt32(Console.ReadLine());
+        n = Convert.ToInt32(Console.Read());
 
         h = n >> 1;
         d = n << 1;
